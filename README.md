@@ -1,4 +1,4 @@
-# Lexical-Complexity-Prediction
+# Lexical Complexity Prediction
 Prediction of Lexical Complexity using a sentence and a word in that sentence <br>
 
 ## Algorithms Implemented
